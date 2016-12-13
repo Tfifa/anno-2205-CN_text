@@ -18,6 +18,6 @@ V1.8汉化
 #### 改其中的config里面的engine.ini  找到  “PreferLocalFiles”:  冒号后的false改为 true就可以了。
   ![](http://i.imgur.com/cUVU57n.png)
 #### 然后复制汉化字体文件和文本到游戏安装目录
-     从网盘下载的  需要复制的 全部data目录 ，直接 放入上图的anno 2205根目录里就行了
+     从网盘下载的  需要复制的 全部data目录 ，直接 放入图的anno 2205根目录里就行了
 
   ![](http://i.imgur.com/jJVzjoJ.png)
